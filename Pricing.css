@@ -1,0 +1,81 @@
+#navbarNavAltMarkup a {
+  color: grey;
+}
+
+#navbarNavAltMarkup a:hover {
+  color: #e8504e;
+}
+#nav-attribute {
+  color: grey;
+}
+
+#nav-attribute a:hover {
+  color: #e8504e;
+}
+#nav-attribute button {
+  background-color: #f23a3a;
+  color: white;
+}
+#nav-attribute button:hover {
+  background-color: #aa3a3a;
+  color: beige;
+}
+
+#paket h2 {
+  padding-top: 8rem;
+}
+
+#paket a {
+  background-color: #f23a3a;
+  color: white;
+}
+#paket a:hover {
+  background-color: #aa3a3a;
+  color: beige;
+}
+#paket p:nth-child(2) {
+  color: #a20a0a;
+  font-weight: bold;
+}
+#paket h6 {
+  font-weight: bold;
+}
+#Price a {
+  background-color: #f23a3a;
+}
+#Price a:hover {
+  background-color: #aa3a3a;
+}
+#closing-btn {
+  background-color: #f23a3a;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer p {
+  color: white;
+  text-decoration: none;
+}
+
+#ending button {
+  background-color: #f23a3a;
+}
+#ending button:hover {
+  background-color: #aa3a3a;
+}
+#footer-target a {
+  color: white;
+  text-decoration: none;
+}
+#footer-target a:hover {
+  color: white;
+  text-decoration: underline;
+}
+#alamat {
+  text-decoration: none;
+}
+#alamat:hover {
+  text-decoration: underline;
+}
